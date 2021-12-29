@@ -1,0 +1,2 @@
+1. 如何加入[开源](http://wuchong.me/blog/2019/02/12/how-to-become-apache-committer/#:~:text=PMC%3A%20Committer%20%E5%86%8D%E5%BE%80%E4%B8%8A,%E4%B9%9F%E5%8F%AF%E4%BB%A5%E5%8F%82%E4%B8%8E%E8%91%A3%E4%BA%8B%E4%BC%9A%E7%AB%9E%E9%80%89%E3%80%82)
+2. 
